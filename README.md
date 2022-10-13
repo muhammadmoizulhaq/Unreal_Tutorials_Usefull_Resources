@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=giDf4G6Ndk8
 
 Designing Games for Commercial Success by @Mr4Goosey - Victor [VoxelPlugin]
 https://www.youtube.com/watch?v=Giq88_Jl-Jo 
+
+Latency Compensating Methods
+https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization
