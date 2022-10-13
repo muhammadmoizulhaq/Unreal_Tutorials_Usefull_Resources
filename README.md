@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=Giq88_Jl-Jo
 
 Latency Compensating Methods
 https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization
+
+Github Link may be more or less usefull repositories
+https://github.com/topics/ue4-plugin
