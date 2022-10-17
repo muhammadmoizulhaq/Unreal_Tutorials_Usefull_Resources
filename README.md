@@ -26,3 +26,6 @@ https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/
 
 Github Link may be more or less usefull repositories
 https://github.com/topics/ue4-plugin
+
+Shaders Programming (HLSL)
+https://www.youtube.com/c/BenCloward/videos
