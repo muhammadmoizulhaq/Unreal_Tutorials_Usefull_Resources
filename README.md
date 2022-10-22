@@ -35,3 +35,14 @@ https://www.youtube.com/c/brynertoma
 
 Unreal Multiplayer Compendium (Sometime server not responds but works well)
 https://cedric-neukirchen.net/
+
+Blog for Unreal Engine
+https://www.thegames.dev/
+
+https://wizardcell.com/
+
+Networking in Unreal Engine
+http://www.aclockworkberry.com/custom-struct-serialization-for-networking-in-unreal-engine/#NetDeltaSerialize_and_Fast_TArray_Replication
+
+http://www.orfeasel.com/networking_intro_p1/
+
