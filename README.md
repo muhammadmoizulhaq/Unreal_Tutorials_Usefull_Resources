@@ -47,4 +47,4 @@ http://www.aclockworkberry.com/custom-struct-serialization-for-networking-in-unr
 http://www.orfeasel.com/networking_intro_p1/
 
 convert unreal blueprint script for display on website. 
-https://blueprints.com/
+https://blueprintue.com/
