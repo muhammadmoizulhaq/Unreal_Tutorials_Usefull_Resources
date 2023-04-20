@@ -1,0 +1,25 @@
+Features: (Please include a full, comprehensive list of the features of the product)
+
+ 
+ 
+ 
+Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))
+
+ 
+ 
+ 
+Number of Blueprints:
+
+Number of C++ Classes:
+
+Network Replicated: (Yes/No)
+
+Supported Development Platforms: (Please include a list of platforms on which the product can be used for development)
+
+Supported Target Build Platforms: (Please include a list of platforms for which the product can be targeted in a packaged build)
+
+Documentation: Link (or a description of where users can find) the documentation
+
+Example Project: (Replace these parentheses with a link to download an example project that depends on your plugin, but doesn't distribute the actual plugin)
+
+Important/Additional Notes:
