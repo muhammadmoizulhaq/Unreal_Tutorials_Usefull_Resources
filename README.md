@@ -39,6 +39,9 @@ https://cedric-neukirchen.net/
 Blog for Unreal Engine
 https://www.thegames.dev/
 
+Unreal Game Sync Usage
+https://zhuanlan.zhihu.com/p/362328594
+
 https://wizardcell.com/
 
 Networking in Unreal Engine
