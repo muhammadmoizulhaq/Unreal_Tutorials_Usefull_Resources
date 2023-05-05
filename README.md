@@ -68,3 +68,5 @@ https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/
 https://docs.redpoint.games/eos-online-subsystem/docs/dedis_overview
 
 https://psichix.github.io/Unreal-Systems-Architecture/systems/book/getting_started.html?search=
+
+https://jackknobel.com/How-To/BuildGraph
