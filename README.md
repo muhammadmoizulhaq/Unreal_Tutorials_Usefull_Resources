@@ -72,3 +72,5 @@ https://psichix.github.io/Unreal-Systems-Architecture/systems/book/getting_start
 https://jackknobel.com/How-To/BuildGraph
 
 https://src.redpoint.games/redpointgames/unreal-engine-scripts/-/tree/main/
+
+https://www.thegames.dev/?cat=4
